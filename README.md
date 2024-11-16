@@ -1,11 +1,10 @@
 # Yuki Miura, Ph.D. 🧠🔬  
 **Neuroscientist | Stem Cell Researcher**  
 
-Welcome to my GitHub! I'm Yuki, a neuroscientist and stem cell researcher exploring the fascinating world of neurobiology.
+Welcome to my GitHub! I'm Yuki, a neuroscientist and stem cell researcher exploring the fascinating world of human neurobiology.
 
 ## 🧪 Research Interests  
 - **Organoid Systems**: Developing cutting-edge models to study human sensory neurons and disease pathology.  
-- **Pain Mechanisms**: Investigating the cellular and molecular underpinnings of pain using patient-specific cells.  
 - **Stem Cell Biology**: Harnessing the potential of stem cells for translational neuroscience.  
 
 ## 💻 Skills & Expertise  
