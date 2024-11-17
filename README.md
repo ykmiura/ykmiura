@@ -1,6 +1,7 @@
 # Yuki Miura, Ph.D.  
 
 Welcome to my GitHub!
+
 I'm Yuki, a neuroscientist and stem cell researcher exploring the fascinating world of human neurobiology.
 
 ## 🧪 Research Interests  
