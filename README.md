@@ -4,6 +4,7 @@
 Welcome to my GitHub! I'm Yuki, a neuroscientist and stem cell researcher exploring the fascinating world of human neurobiology.
 
 ## 🧪 Research Interests  
+- **Human Neurobiology**: Unraveling the complex processes that govern human brain development and functionality.  
 - **Organoid Systems**: Developing cutting-edge models to study human neurobiology and disease pathology.  
 - **Stem Cell Biology**: Harnessing the potential of stem cells for translational neuroscience.  
 
