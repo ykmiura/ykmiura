@@ -14,9 +14,7 @@ Welcome to my GitHub! I'm Yuki, a neuroscientist and stem cell researcher explor
 
 ## 📫 Contact  
 - [Website](https://profiles.stanford.edu/yuki-miura)  
-- [Email](mailto:miurayuki0531@gmail.com)  
-
-Thank you for visiting, and I hope you find my projects inspiring!  
+- [Email](mailto:miurayuki0531@gmail.com)    
 
 <!---
 ykmiura/ykmiura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
