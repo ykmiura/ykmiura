@@ -1,4 +1,4 @@
-# Yuki Miura, Ph.D. 🧠🔬  
+# Yuki Miura, Ph.D.  
 **Neuroscientist | Stem Cell Researcher**  
 
 Welcome to my GitHub! I'm Yuki, a neuroscientist and stem cell researcher exploring the fascinating world of human neurobiology.
