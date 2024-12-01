@@ -8,9 +8,9 @@ I'm Yuki, a neuroscientist and stem cell researcher exploring the fascinating wo
 - **Stem Cell Biology**: Harnessing the potential of stem cells for translational neuroscience.  
 
 ## 💻 Skills & Expertise  
-- Stem cell differentiation and developing regionalized neural organoids  
-- Organoid and assembloid culture and advanced imaging  
-- Bioinformatics and data analysis for neuroscience  
+- Stem cell differentiation and developing regionalized neural organoids and assembloids  
+- Advanced live cell imaging  
+- Single-cell RNAseq data analysis for neuroscience  
 
 ## 📫 Contact  
 - [Website](https://profiles.stanford.edu/yuki-miura)  
