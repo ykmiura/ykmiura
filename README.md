@@ -1,6 +1,6 @@
 # Yuki Miura, Ph.D.  
 
-I'm Yuki, a neuroscientist and stem cell researcher exploring the fascinating world of human neurobiology.
+I'm Yuki, a neuroscience and stem cell researcher exploring the fascinating world of human neurobiology.
 
 ## 🧪 Research Interests  
 - **Human Neurobiology**: Unraveling the complex processes that govern human brain development and functionality.  
