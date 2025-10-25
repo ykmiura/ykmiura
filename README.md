@@ -1,11 +1,11 @@
 # Yuki Miura, Ph.D.  
 
-I'm Yuki, a neuroscience and stem cell researcher exploring the fascinating world of human neurobiology.
+I’m Yuki, a neuroscience and stem cell researcher stuyding the fundamental principles of human nervous system assembly and disease.
 
 ## 🧪 Research Interests  
-- **Human Neurobiology**: Unraveling the complex processes that govern human brain development and functionality.  
-- **Organoid Systems**: Developing cutting-edge models to study human neurobiology and disease pathology.  
-- **Stem Cell Biology**: Harnessing the potential of stem cells for translational neuroscience.  
+- **Human Neurobiology**: Investigating the complex processes that govern human brain development and functionality.  
+- **Organoid Systems**: Engineering advanced cellular and organoid models to investigate human neurobiology and disease mechanisms.
+- **Stem Cell Biology**: Leveraging the potential of stem cells to advance translational neuroscience and regenerative medicine.
 
 ## 💻 Skills & Expertise  
 - Stem cell differentiation and developing regionalized neural organoids and assembloids  
@@ -13,7 +13,7 @@ I'm Yuki, a neuroscience and stem cell researcher exploring the fascinating worl
 - Single-cell RNAseq data analysis for neuroscience  
 
 ## 📫 Contact  
-- [Website](https://profiles.stanford.edu/yuki-miura)  
+- [Publications](https://scholar.google.com/citations?user=OqWZyLIAAAAJ&hl=en)  
 - [Email](mailto:miurayuki0531@gmail.com)    
 
 <!---
