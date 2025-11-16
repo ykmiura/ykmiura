@@ -5,7 +5,7 @@ I’m Yuki, a neuroscience and stem cell researcher stuyding the fundamental pri
 ## 🧪 Research Interests  
 - **Human Neurobiology**: Investigating the mechanisms of human brain development, connectivity, and function with a focus on disease-relevant neural circuit formation.  
 - **Organoid Systems**: Engineering stem cell-based 3D models to reconstruct and interrogate region-specific human brain circuits in health and neuropsychiatric disorders.
-- **Neuroimaging and Functional Assays**: LeApplying advanced imaging technologies including volumetric calcium imaging, optogenetics, and electrophysiology to study real-time activity and connectivity in human neural systems.
+- **Neuroimaging and Functional Assays**: Applying advanced imaging technologies including volumetric calcium imaging coupled with optogenetics, to study real-time activity and connectivity in human neural systems.
 
 ## 💻 Skills & Expertise  
 - Human Stem Cell Models: Differentiation of pluripotent stem cells into region-specific neural organoids and multi-region assembloids.
